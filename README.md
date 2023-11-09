@@ -3,9 +3,9 @@
 ## Table of Content
   1. [Acceptance_Criteria](#acceptance_criteria)
   2. [Run](#start_server)
-  3. [Repo](#repo)
-  4. [Badge](#badge)
-  5. [License](#license)
+  3. [Badge](#badge)
+  4. [License](#license)
+  5. [Repo](#repo)
   6. [Video](#video)
 
 ## User Story
@@ -27,14 +27,14 @@
  ## Start_Server
 - To start the program, type in the terminal npm run devStart
 
-## Repo
-- https://github.com/khinoj/Social-Network-API
-
 ## Badge
 - ![License: MIT License](https://img.shields.io/badge/License-MIT.0-red)
 
 ## License
 - https://opensource.org/license/mit/
+
+## Repo
+- https://github.com/khinoj/Social-Network-API
 
 ## Video
 - https://drive.google.com/file/d/10cV4SciwgLV3CGf29hEH8paoO14FlWLr/view
